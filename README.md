@@ -1,6 +1,6 @@
 ## Overview
 ### Hi everyone! 🤝 <br/>
-I am Wojtek, a second year student of CS Course on AGH University of Science and Technology in Cracow, aiming to become a Back-End Developer. At the moment I am mostly interested in Java ☕️ and Python 🐍, but I constantly work on expanding my knowledge on programming langauges and technologies, in addition to completing my studies. In the meantime I love to spend time backpacking 🛫, playing tennis 🎾 and cooking 🌮 <br/> <br/>
+I am Wojtek, a third year student of CS Course on AGH University of Science and Technology in Cracow, aiming to become a Back-End Developer. At the moment I am mostly interested in Java ☕️ and Python 🐍, but I constantly work on expanding my knowledge on programming langauges and technologies, in addition to completing my studies. In the meantime I love to spend time backpacking 🛫, playing tennis 🎾 and cooking 🌮 <br/> <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WojtekWietrzny&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WojtekWietrzny&langs_count=8&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ## Tech Stack
